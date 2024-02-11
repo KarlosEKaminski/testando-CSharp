@@ -40,9 +40,9 @@ Este projeto está sob a licença [MIT](LICENSE.txt)<br>
 ## 📸 Screenshots
 <div style="display: flex;">
    <p align="center">
-      <img src="screenshots/tela-inicial.png" alt="Screenshot da tela de início" width="200"/>
-      <img src="screenshots/funcionamento.png" alt="Screenshot do programa em funcionamento" width="200"/>
-      <img src="screenshots/erro-01.png" alt="Screenshot da primeira tela de erro" width="200"/>
-      <img src="screenshots/erro-02.png" alt="Screenshot da segunda tela de erro" width="200"/>
+      <img src="screenshots/tela-inicial.png" alt="Screenshot da tela de início" width="400"/>
+      <img src="screenshots/funcionamento.png" alt="Screenshot do programa em funcionamento" width="400"/>
+      <img src="screenshots/erro-01.png" alt="Screenshot da primeira tela de erro" width="400"/>
+      <img src="screenshots/erro-02.png" alt="Screenshot da segunda tela de erro" width="400"/>
    </p>
 </div>
