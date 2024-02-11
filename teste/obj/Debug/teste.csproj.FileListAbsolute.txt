@@ -8,3 +8,13 @@ C:\Users\Karlos\Desktop\teste\teste\obj\Debug\teste.csproj.GenerateResource.cach
 C:\Users\Karlos\Desktop\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
 C:\Users\Karlos\Desktop\teste\teste\obj\Debug\teste.exe
 C:\Users\Karlos\Desktop\teste\teste\obj\Debug\teste.pdb
+C:\Users\Karlos\Desktop\desafioSOS\teste\bin\Debug\teste.exe.config
+C:\Users\Karlos\Desktop\desafioSOS\teste\bin\Debug\teste.exe
+C:\Users\Karlos\Desktop\desafioSOS\teste\bin\Debug\teste.pdb
+C:\Users\Karlos\Desktop\desafioSOS\teste\obj\Debug\teste.csproj.AssemblyReference.cache
+C:\Users\Karlos\Desktop\desafioSOS\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Karlos\Desktop\desafioSOS\teste\obj\Debug\teste.Form1.resources
+C:\Users\Karlos\Desktop\desafioSOS\teste\obj\Debug\teste.csproj.GenerateResource.cache
+C:\Users\Karlos\Desktop\desafioSOS\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\Karlos\Desktop\desafioSOS\teste\obj\Debug\teste.exe
+C:\Users\Karlos\Desktop\desafioSOS\teste\obj\Debug\teste.pdb
